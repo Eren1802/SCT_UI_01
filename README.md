@@ -1,2 +1,1 @@
-# SCT_UI_01
-SkillCraft Technology - UI/UX 
+Thanks for Coming Here :)
